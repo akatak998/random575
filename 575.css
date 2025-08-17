@@ -28,11 +28,11 @@ button {
   opacity: 0.8;
  }
  .image2 {
-  width: 500px;
+  width: 550px;
   height: auto;
   position: fixed;
   left: 450px;
-  top:13%;
+  top:15%;
   z-index: -1;
  }
  #first_words,
