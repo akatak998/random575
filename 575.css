@@ -1,0 +1,54 @@
+body {
+  width: 400px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: xx-large;
+}
+button {
+  padding: 15px 20px;
+  background-color: #12bc5c;
+  border-style: none;
+  font-size: large;
+  position: relative;
+  top: 470px;
+  left: 100px;
+ }
+ button:active {
+  background-color: rgb(3, 93, 3);
+  color: #fff;
+ }
+.image {
+  width: 400px;
+  height: auto;
+  position: fixed;
+  left: 30px;
+  top: 70%;
+  transform: translateY(-50%);
+  z-index: -1;
+  opacity: 0.8;
+ }
+ .image2 {
+  width: 300px;
+  height: auto;
+  position: fixed;
+  left: 50px;
+  top:30%;
+  z-index: -1;
+ }
+ #first_words,
+ #second_words,
+ #last_words {
+  writing-mode: vertical-rl;
+  position: fixed;
+  top: 200px;
+  left: 50%;
+ }
+#first_words {
+  left: 50%;
+}
+#second_words {
+  left: calc(50% - 100px);
+}
+#last_words {
+  left: calc(50% - 200px);
+}
