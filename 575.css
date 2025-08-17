@@ -28,10 +28,10 @@ button {
   opacity: 0.8;
  }
  .image2 {
-  width: 600px;
+  width: 630px;
   height: auto;
   position: fixed;
-  left: 430px;
+  left: 400px;
   top:13%;
   z-index: -1;
  }
