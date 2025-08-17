@@ -32,7 +32,7 @@ button {
   height: auto;
   position: fixed;
   left: 300px;
-  top:30%;
+  top:10%;
   z-index: -1;
  }
  #first_words,
