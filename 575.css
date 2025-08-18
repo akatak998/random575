@@ -21,7 +21,7 @@ button {
   width: 400px;
   height: auto;
   position: relative;
-  right: 330px;
+  right: 530px;
   top: 350%;
   transform: translateY(-50%);
   z-index: -1;
