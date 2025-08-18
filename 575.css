@@ -19,7 +19,7 @@ footer {
   background-color: #f0f0f0;
 }
 .button {
-  position: fixed;
+  position: relative;
   bottom: 50px;
   right: 150px;
   cursor: pointer;
