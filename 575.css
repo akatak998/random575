@@ -28,14 +28,16 @@ footer {
  }
 .image {
   position: relative;
-  bottom: 510px;
+  bottom: 520px;
   right: 130px;
   z-index: -1;
 }
 .image2 {
   position: relative;
-  top: -700px;
+  bottom: 300px;
   right: 300px;
+  width: 50%;
+  height: 50%;
 }
  #first_words,
  #second_words,
