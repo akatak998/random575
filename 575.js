@@ -196,7 +196,7 @@ const seven = [
   '腹筋割れた'
 ];
 
-const Button = document.getElementById('Button');
+const Button = document.getElementById('image_button');
 if (!Button) {
   console.error('Button element not found');
 } else {
