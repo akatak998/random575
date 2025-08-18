@@ -31,6 +31,9 @@ button {
 .image2 {
   position: relative;
 }
+.image {
+  right: 100px;
+}
  #first_words,
  #second_words,
  #last_words {
