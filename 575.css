@@ -37,7 +37,8 @@ footer {
   position: relative;
   width: 50%;
   height: 50%;
-  right: 100px;
+  right: 200px;
+  bottom: 100px;
 }
  #first_words,
  #second_words,
