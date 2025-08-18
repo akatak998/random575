@@ -1,13 +1,6 @@
 html {
   height:100%;
 }
-footer {
-  height: 200px;
-  background-color: #f0f0f0;
-  position:fixed;
-  bottom: 0;
-  width: 100%;
-}
 body {
   width: 400px;
   height: 100px;
@@ -15,6 +8,14 @@ body {
   min-height: 100vh;
   padding-bottom: 200px;
   font-size: xx-large;
+  display: flex;
+  flex-direction: column;
+}
+.content {
+  flex: 1;
+}
+footer {
+  height: 200px;
 }
 button {
   padding: 25px 30px;
