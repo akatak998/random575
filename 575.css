@@ -25,9 +25,11 @@ footer {
   margin-top: 200px;
   bottom: auto;
   cursor: pointer;
-  width: 20px;
-  height: auto;
  }
+.haijin_button img {
+  width: 50px;
+  height: auto;
+}
 .image{
   position: relative;
   bottom: 400px;
