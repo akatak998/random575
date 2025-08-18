@@ -17,7 +17,7 @@ footer {
   height: 200px;
   background-color: #f0f0f0;
 }
-.haijin_button {
+button {
   position: static;
   border: none;
   box-shadow: none;
@@ -26,15 +26,16 @@ footer {
   bottom: auto;
   cursor: pointer;
  }
-.haijin_button img {
-  width: 50%;
-  height: 50%;
-}
-.image{
+.image {
   position: relative;
   bottom: 830px;
   right: 130px;
   z-index: -1;
+}
+.image2 {
+  position: relative;
+  bottom; 500px;
+  right: 300px;
 }
  #first_words,
  #second_words,
