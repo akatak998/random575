@@ -34,7 +34,7 @@ footer {
 }
 .image2 {
   position: relative;
-  top; 100px;
+  bottom: 100px;
   right: 300px;
 }
  #first_words,
