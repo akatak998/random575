@@ -33,7 +33,7 @@ button {
   position: relative;
   z-index: -1;
   left: 50px;
-  top:10px;
+  top:1px;
  }
  #first_words,
  #second_words,
