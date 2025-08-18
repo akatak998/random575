@@ -38,6 +38,7 @@ button {
 }
 .image2 {
   bottom: 400px;
+  right: 100px;
   z-index: -1;
 }
  #first_words,
