@@ -29,7 +29,7 @@ footer {
  }
 .image {
   position: relative;
-  top: -200px;
+  top: -100px;
   right: 130px;
   z-index: -1;
 }
