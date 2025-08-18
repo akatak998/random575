@@ -25,6 +25,8 @@ footer {
   margin-top: 200px;
   bottom: auto;
   cursor: pointer;
+  width: 20%
+  height: auto;
  }
 .image{
   position: relative;
