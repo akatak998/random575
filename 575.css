@@ -34,7 +34,7 @@ footer {
   z-index: -1;
 }
 .image2 {
-  position: statics;
+  position: static;
   bottom: 800px;
   right: 150px;
   width: 50%;
