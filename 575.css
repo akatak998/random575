@@ -17,28 +17,15 @@ footer {
   height: 200px;
   background-color: #f0f0f0;
 }
-button {
+image_button {
   position: relative;
-  padding: 25px 30px;
-  background-color: #12bc5c;
-  border-style: none;
-  font-size: large;
+  padding: 0;
+  background: none;
+  border: none;
   top: 500px
  }
- button:active {
-  background-color: rgb(3, 93, 3);
-  color: #fff;
- }
-.image,
-.image2 {
+.image{
   position: relative;
-}
-.image {
-  right: 500px;
-  width: 50%;
-  height: auto;
-}
-.image2 {
   bottom: 400px;
   right: 150px;
   z-index: -1;
