@@ -23,6 +23,8 @@ image_button {
   background: none;
   border: none;
   top: 500px
+  width: 50%;
+  height: auto;
  }
 .image{
   position: relative;
