@@ -38,7 +38,7 @@ button {
  #second_words,
  #last_words {
   writing-mode: vertical-rl;
-  position: relative;
+  position: absolute;
   top: 200px;
   left: 50%;
   text-orientation: upright;
