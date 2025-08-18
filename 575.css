@@ -20,7 +20,7 @@ button {
 .image {
   width: 400px;
   height: auto;
-  position: fixed;
+  position: relative;
   left: 30px;
   top: 70%;
   transform: translateY(-50%);
