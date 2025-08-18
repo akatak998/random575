@@ -34,9 +34,10 @@ footer {
   z-index: -1;
 }
 .image2 {
-  position: static;
+  position: relative;
   width: 50%;
   height: 50%;
+  right: 100px;
 }
  #first_words,
  #second_words,
