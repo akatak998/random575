@@ -9,6 +9,7 @@ body {
   flex-direction: column;
 }
 .content {
+  position: relative;
   flex: 1;
   max-width: 400px;
   margin: 0 auto;
@@ -18,8 +19,8 @@ footer {
   background-color: #f0f0f0;
 }
 .button {
-  position: relative;
-  bottom: 800px;
+  position: absolute;
+  bottom: 50px;
   right: 150px;
   cursor: pointer;
   width: 100px;
