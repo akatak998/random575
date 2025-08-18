@@ -45,10 +45,13 @@ button {
  }
 #first_words {
   left: 50%;
+  top: 200px;
 }
 #second_words {
   left: calc(50% - 100px);
+  top: calc(200px - 100px);
 }
 #last_words {
   left: calc(50% - 200px);
+  top: calc(200px - 200px);
 }
