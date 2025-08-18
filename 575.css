@@ -33,6 +33,8 @@ button {
 }
 .image {
   right: 500px;
+  width: 50%;
+  height: auto;
 }
  #first_words,
  #second_words,
