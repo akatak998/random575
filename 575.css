@@ -32,8 +32,8 @@ button {
   height: auto;
   position: relative;
   z-index: -1;
-  text-align: center;
-  top: 10%;
+  left: 50px;
+  top:30%;
  }
  #first_words,
  #second_words,
