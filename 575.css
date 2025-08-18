@@ -36,6 +36,9 @@ button {
   width: 50%;
   height: auto;
 }
+.image {
+  top: 100px;
+}
  #first_words,
  #second_words,
  #last_words {
