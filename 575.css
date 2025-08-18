@@ -20,7 +20,8 @@ footer {
 .button {
   position: static;
   margin-top: 550px;
-  margin-right: 230px;
+  margin-right: 300px;
+  buttom: auto;
   cursor: pointer;
   width: 100px;
   height: 100px;
