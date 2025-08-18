@@ -196,7 +196,7 @@ const seven = [
   '腹筋割れた'
 ];
 
-const Button = document.getElementById('haijin_button');
+const Button = document.getElementById('Button');
 if (!Button) {
   console.error('Button element not found');
 } else {
