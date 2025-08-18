@@ -38,6 +38,7 @@ button {
 }
 .image2 {
   bottom: 300px;
+  z-index: -1;
 }
  #first_words,
  #second_words,
@@ -46,6 +47,7 @@ button {
    text-orientation: upright;
   position: absolute;
   top: 200px;
+  right: 100px;
  }
 #first_words {
   left: 50%;
