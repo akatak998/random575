@@ -34,6 +34,8 @@ button {
   left: 300px;
   top:8%;
   z-index: -1;
+  display: flex;
+  justify-content: center;
  }
  #first_words,
  #second_words,
