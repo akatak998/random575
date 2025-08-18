@@ -2,11 +2,8 @@ html {
   height:100%;
 }
 body {
-  width: 400px;
-  height: 100px;
   margin: 0 auto;
   min-height: 100vh;
-  padding-bottom: 200px;
   font-size: xx-large;
   display: flex;
   flex-direction: column;
