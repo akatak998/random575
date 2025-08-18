@@ -19,8 +19,6 @@ footer {
 }
 .button {
   position: static;
-  border: none;
-  box-shadow: none;
   margin-top: 450px;
   margin-left: -300px;
   bottom: auto;
