@@ -19,18 +19,16 @@ footer {
 }
 .haijin_button {
   position: static;
-  background: none;
   border: none;
   box-shadow: none;
   margin-top: 405px;
-  margin-right: 200px;
   bottom: auto;
   cursor: pointer;
  }
 .haijin_button img {
   width: 50%;
   height: auto;
-  margin-right: 200px;
+  margin-right: 300px;
 }
 .image{
   position: relative;
