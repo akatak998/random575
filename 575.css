@@ -27,8 +27,8 @@ footer {
   cursor: pointer;
  }
 .haijin_button img {
-  width: 20px;
-  height: 100px;
+  width: 50%;
+  height: 50%;
 }
 .image{
   position: relative;
