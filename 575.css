@@ -18,9 +18,9 @@ footer {
   background-color: #f0f0f0;
 }
 .button {
-  position: static;
-  margin-top: 450px;
-  margin-left: -300px;
+  position: relative;
+  bottom: 600px;
+  right: 150px;
   bottom: auto;
   cursor: pointer;
   width: 100px;
