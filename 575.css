@@ -30,7 +30,7 @@ button {
  .image2 {
   width: 665px;
   height: auto;
-  position: fixed;
+  position: relative;
   left: 390px;
   top:11%;
   z-index: -1;
