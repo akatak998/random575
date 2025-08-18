@@ -1,8 +1,9 @@
-html,body {
+html {
   height:100%;
 }
 footer {
   height: 200px;
+  background-color: #f0f0f0
   position:fixed;
   bottom: 0;
   width: 100%
@@ -12,6 +13,7 @@ footer {
 }
 body {
   width: 400px;
+  height: 100px;
   margin-right: auto;
   margin-left: auto;
   margin: 0;
