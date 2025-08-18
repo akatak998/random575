@@ -19,12 +19,13 @@ footer {
   background-color: #f0f0f0;
 }
 .button {
-  position: absolute;
+  position: fixed;
   bottom: 50px;
   right: 150px;
   cursor: pointer;
   width: 100px;
   height: 100px;
+  z-index: 100;
  }
 .image {
   position: relative;
