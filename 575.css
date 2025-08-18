@@ -21,8 +21,8 @@ button {
   width: 400px;
   height: auto;
   position: relative;
-  right: 530px;
-  top: 350%;
+  right: 500px;
+  top: 650%;
   transform: translateY(-50%);
   z-index: -1;
   opacity: 0.8;
