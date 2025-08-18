@@ -29,11 +29,11 @@ button {
  }
  .image2 {
   width: 665px;
+  margin: auto;
+  display: block;
   height: auto;
   position: relative;
   z-index: -1;
-  display: flex;
-  justify-content: center;
   top: 50%;
  }
  #first_words,
