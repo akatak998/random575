@@ -37,7 +37,7 @@ button {
   height: auto;
 }
 .image {
-  top: 100px;
+  bottom: 100px;
 }
  #first_words,
  #second_words,
