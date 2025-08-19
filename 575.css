@@ -17,7 +17,7 @@ body {
 }
 .button {
   position: fixed;
-  bottom: 10px;
+  bottom: 0px;
   left: 380px;
   cursor: pointer;
   width: 150px;
@@ -37,8 +37,8 @@ body {
   position: relative;
   width: 50%;
   height: 50%;
-  right: 180px;
-  bottom: 50px;
+  right: 120px;
+  bottom: 30px;
 }
  #first_words,
  #second_words,
