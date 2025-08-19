@@ -17,7 +17,7 @@ body {
 }
 .button {
   position: fixed;
-  bottom: 50px;
+  bottom: 20px;
   right: 950px;
   cursor: pointer;
   width: 100px;
