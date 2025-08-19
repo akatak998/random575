@@ -32,6 +32,8 @@ footer {
   bottom: 255px;
   right: 130px;
   z-index: -1;
+  width: 120%;
+  height: auto;
 }
 .image2 {
   position: relative;
