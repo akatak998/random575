@@ -20,7 +20,7 @@ footer {
 }
 .button {
   position: relative;
-  bottom: 50px;
+  bottom: 100px;
   right: 150px;
   cursor: pointer;
   width: 100px;
