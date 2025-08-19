@@ -44,7 +44,7 @@ body {
 .explanation {
   position: relative;
   bottom: 300px;
-  right: 50px;
+  right: 150px;
 }
  #first_words,
  #second_words,
@@ -52,7 +52,7 @@ body {
   writing-mode: vertical-rl;
   text-orientation: upright;
   position: absolute;
-  top: 50px;
+  top: 60px;
  }
 #first_words {
   left: 60%;
