@@ -21,7 +21,7 @@ footer {
 }
 .button {
   position: absolute;
-  margin-bottom: 300px;
+  margin-bottom: 500px;
   right: 150px;
   cursor: pointer;
   width: 100px;
@@ -49,7 +49,7 @@ footer {
   writing-mode: vertical-rl;
   text-orientation: upright;
   position: absolute;
-  top: 150px;
+  top: 300px;
  }
 #first_words {
   left: 60%;
