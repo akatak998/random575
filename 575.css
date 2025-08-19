@@ -20,7 +20,7 @@ footer {
   background-color: #f0f0f0;
 }
 .button {
-  position: fixed;
+  position: relative;
   top: 400px;
   right: 150px;
   cursor: pointer;
@@ -29,7 +29,7 @@ footer {
   z-index: 100;
  }
 .image {
-  position: fixed;
+  position: relative;
   bottom: 270px;
   right: 180px;
   z-index: -1;
@@ -37,7 +37,7 @@ footer {
   height: auto;
 }
 .image2 {
-  position: fixed;
+  position: relative;
   width: 50%;
   height: 50%;
   right: 170px;
