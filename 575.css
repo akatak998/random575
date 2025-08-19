@@ -27,7 +27,7 @@ body {
  }
 .image {
   position: relative;
-  top: 30px;
+  top: 70px;
   right: 150px;
   z-index: -1;
   width: 180%;
@@ -38,7 +38,7 @@ body {
   width: 50%;
   height: 50%;
   right: 160px;
-  bottom: 30px;
+  bottom: 0px;
 }
  #first_words,
  #second_words,
