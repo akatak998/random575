@@ -21,7 +21,7 @@ footer {
 }
 .button {
   position: relative;
-  top: 400px;
+  margin-top: 400px;
   right: 150px;
   cursor: pointer;
   width: 100px;
