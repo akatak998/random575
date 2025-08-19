@@ -21,7 +21,7 @@ footer {
 }
 .button {
   position: relative;
-  top: 300px;
+  top: 200px;
   right: 150px;
   cursor: pointer;
   width: 100px;
@@ -52,11 +52,11 @@ footer {
   top: 50px;
  }
 #first_words {
-  left: 50%;
+  left: 80%;
 }
 #second_words {
   left: calc(50% - 100px);
 }
 #last_words {
-  left: calc(50% - 200px);
+  left: calc(30% - 200px);
 }
