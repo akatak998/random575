@@ -30,7 +30,7 @@ footer {
  }
 .image {
   position: relative;
-  bottom: 130px;
+  bottom: 110px;
   right: 180px;
   z-index: -1;
   width: 180%;
@@ -49,7 +49,7 @@ footer {
   writing-mode: vertical-rl;
   text-orientation: upright;
   position: absolute;
-  top: 280px;
+  top: 200px;
  }
 #first_words {
   left: 60%;
