@@ -7,6 +7,7 @@ body {
   font-size: xx-large;
   display: flex;
   flex-direction: column;
+  overflow: hidden;
 }
 .content {
   position: relative;
@@ -40,7 +41,7 @@ footer {
   width: 50%;
   height: 50%;
   right: 170px;
-  bottom: 300px;
+  bottom: 330px;
 }
  #first_words,
  #second_words,
