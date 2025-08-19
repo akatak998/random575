@@ -17,7 +17,7 @@ body {
 }
 .button {
   position: fixed;
-  bottom: 100px;
+  bottom: 80px;
   right: 950px;
   cursor: pointer;
   width: 100px;
@@ -26,7 +26,7 @@ body {
  }
 .image {
   position: relative;
-  bottom: 80px;
+  bottom: 70px;
   right: 180px;
   z-index: -1;
   width: 180%;
@@ -45,7 +45,7 @@ body {
   writing-mode: vertical-rl;
   text-orientation: upright;
   position: absolute;
-  top: 80px;
+  top: 60px;
  }
 #first_words {
   left: 60%;
