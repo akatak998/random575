@@ -24,7 +24,7 @@ footer {
   right: 150px;
   cursor: pointer;
   width: 100px;
-  height: 500px;
+  height: 300px;
   z-index: 100;
  }
 .image {
@@ -38,7 +38,7 @@ footer {
   width: 50%;
   height: 50%;
   right: 100px;
-  bottom: 500px;
+  bottom: 550px;
 }
  #first_words,
  #second_words,
