@@ -30,7 +30,7 @@ footer {
  }
 .image {
   position: relative;
-  bottom: 400px;
+  bottom: 200px;
   right: 180px;
   z-index: -1;
   width: 180%;
@@ -41,7 +41,7 @@ footer {
   width: 50%;
   height: 50%;
   right: 170px;
-  bottom: 400px;
+  bottom: 200px;
 }
  #first_words,
  #second_words,
