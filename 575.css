@@ -24,6 +24,7 @@ body {
   height: 250px;
   z-index: 100;
   background: none;
+  outline: none;
  }
 .image {
   position: relative;
