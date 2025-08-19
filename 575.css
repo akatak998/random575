@@ -26,7 +26,7 @@ body {
  }
 .image {
   position: relative;
-  bottom: -150px;
+  bottom: -50px;
   right: 150px;
   z-index: -1;
   width: 180%;
