@@ -30,7 +30,7 @@ footer {
  }
 .image {
   position: relative;
-  bottom: 110px;
+  bottom: 80px;
   right: 180px;
   z-index: -1;
   width: 180%;
