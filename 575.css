@@ -45,6 +45,7 @@ body {
   position: relative;
   bottom: 0px;
   right: 100px;
+  margin: 0 auto;
 }
  #first_words,
  #second_words,
