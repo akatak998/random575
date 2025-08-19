@@ -26,7 +26,7 @@ body {
  }
 .image {
   position: relative;
-  bottom: 100px;
+  bottom: 80px;
   right: 180px;
   z-index: -1;
   width: 180%;
@@ -37,7 +37,7 @@ body {
   width: 50%;
   height: 50%;
   right: 170px;
-  bottom: 100px;
+  bottom: 130px;
 }
  #first_words,
  #second_words,
@@ -45,7 +45,7 @@ body {
   writing-mode: vertical-rl;
   text-orientation: upright;
   position: absolute;
-  top: 100px;
+  top: 80px;
  }
 #first_words {
   left: 60%;
