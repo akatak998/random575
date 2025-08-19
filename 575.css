@@ -41,6 +41,10 @@ body {
   right: 160px;
   bottom: -10px;
 }
+.explanation {
+  bottom: 0px;
+  right: 100px;
+}
  #first_words,
  #second_words,
  #last_words {
