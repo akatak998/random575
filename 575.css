@@ -21,7 +21,7 @@ footer {
 }
 .button {
   position: relative;
-  margin-top: 400px;
+  margin-top: 500px;
   right: 150px;
   cursor: pointer;
   width: 100px;
@@ -30,7 +30,7 @@ footer {
  }
 .image {
   position: relative;
-  bottom: 680px;
+  bottom: 670px;
   right: 180px;
   z-index: -1;
   width: 180%;
