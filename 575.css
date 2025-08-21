@@ -2,7 +2,7 @@ html {
   height:100%;
 }
 body {
-  margin: 0 auto;
+  margin    : 0 auto;
   min-height: 100vh;
   font-size: xx-large;
   display: flex;
