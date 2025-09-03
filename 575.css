@@ -43,9 +43,9 @@ body {
 }
 .explanation {
   position: relative;
-  top  : 200px;
+  top     : 100px;
   left    : 35px;
-  z-index : 100;
+  z-index : 1000;
 }
  #first_words,
  #second_words,
