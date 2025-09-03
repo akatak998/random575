@@ -18,8 +18,8 @@ body {
 }
 .button {
   position  : relative;
-  bottom    : -550px;
-  left      : -30px;
+  bottom    : -570px;
+  left      : -60px;
   cursor    : pointer;
   width     : 150px;
   height    : 250px;
@@ -29,7 +29,7 @@ body {
  }
 .image {
   position: relative;
-  bottom  : 320px;
+  bottom  : 330px;
   right   : 190px;
   z-index : -1;
   width   : 180%;
@@ -37,7 +37,7 @@ body {
 }
 .image2 {
   position: relative;
-  bottom  : 375px;
+  bottom  : 385px;
   width   : 50%;
   height  : 50%;
   right   : 160px;
