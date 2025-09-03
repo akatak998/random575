@@ -28,7 +28,7 @@ body {
  }
 .image {
   position: relative;
-  bottom  : -30px;
+  bottom  : 80px;
   right   : 190px;
   z-index : -1;
   width   : 180%;
@@ -36,7 +36,7 @@ body {
 }
 .image2 {
   position: relative;
-  bottom  : -80px;
+  bottom  : 80px;
   width   : 50%;
   height  : 50%;
   right   : 160px;
