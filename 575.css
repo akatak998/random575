@@ -44,7 +44,7 @@ body {
 }
 .explanation {
   position: relative;
-  bottom  : 500px;
+  bottom  : 550px;
   left    : 35px;
   z-index : 100;
 }
