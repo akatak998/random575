@@ -24,8 +24,8 @@ body {
   width     : 150px;
   height    : 250px;
   z-index   : 100;
-  /*background: none;
-  border    : none;*/
+  background: none;
+  border    : none;
  }
 .image {
   position: relative;
@@ -44,7 +44,7 @@ body {
 }
 .explanation {
   position: relative;
-  bottom     : 300px;
+  bottom  : 500px;
   left    : 35px;
   z-index : 100;
 }
