@@ -52,7 +52,7 @@ body {
   writing-mode    : vertical-rl;
   text-orientation: upright;
   position        : absolute;
-  top             : 100px;
+  top             : 60px;
  }
 #first_words {
   left: 60%;
