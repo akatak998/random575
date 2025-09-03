@@ -19,7 +19,7 @@ body {
 .button {
   position  : relative;
   bottom    : -500px;
-  left      : 150px;
+  left      : 50px;
   cursor    : pointer;
   width     : 150px;
   height    : 250px;
@@ -29,7 +29,7 @@ body {
  }
 .image {
   position: relative;
-  bottom  : 180px;
+  bottom  : 280px;
   right   : 190px;
   z-index : -1;
   width   : 180%;
@@ -37,7 +37,7 @@ body {
 }
 .image2 {
   position: relative;
-  bottom  : 235px;
+  bottom  : 335px;
   width   : 50%;
   height  : 50%;
   right   : 160px;
