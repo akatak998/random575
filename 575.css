@@ -17,7 +17,7 @@ body {
   margin: 0 auto;
 }
 .button {
-  position  : fixed;
+  position  : relative;
   bottom    : 0px;
   left      : 380px;
   cursor    : pointer;
