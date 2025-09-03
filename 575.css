@@ -18,8 +18,8 @@ body {
 }
 .button {
   position  : relative;
-  bottom    : -300px;
-  left      : 380px;
+  bottom    : -500px;
+  left      : 280px;
   cursor    : pointer;
   width     : 150px;
   height    : 250px;
